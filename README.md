@@ -1,4 +1,5 @@
-<img width="768" height="432" alt="Amazon-Web-Services-AWS-Logo-PNG-HD-Quality" src="https://github.com/user-attachments/assets/1622d0f6-94dd-4930-9561-a7773ca18af5" />
+<img width="230" height="130" alt="amazon aws" src="https://github.com/user-attachments/assets/d32cdac3-a8ac-4725-9efc-1bcc035e6cb7" />
+
 
 # Relatorio-implementacao-servicos-AWS
 Data: 21/10/2025
