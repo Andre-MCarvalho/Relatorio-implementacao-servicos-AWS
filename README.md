@@ -27,8 +27,9 @@ Etapa 3:
 A implementação de ferramentas na empresa Abstergo Industries tem como esperado a redução imediata na fatura mensal de infraestrutura em nuvem, eliminação de desperdícios de recursos ociosos e otimização do armazenamento de dados legados e regulatórios, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
-Relatório de Estimativa de Custos (AWS Pricing Calculator)
-Guia Interno de Políticas de Retenção de Dados no S3 Glacier
-Manual de Configuração de Alertas de Orçamento do AWS Budgets
+-Relatório de Estimativa de Custos (AWS Pricing Calculator)
+-Guia Interno de Políticas de Retenção de Dados no S3 Glacier
+-Manual de Configuração de Alertas de Orçamento do AWS Budgets
+
 Assinatura do Responsável pelo Projeto:
 Andre Martins de Carvalho
