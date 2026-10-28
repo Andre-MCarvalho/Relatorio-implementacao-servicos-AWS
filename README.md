@@ -1,13 +1,14 @@
 <img width="230" height="130" alt="amazon aws" src="https://github.com/user-attachments/assets/d32cdac3-a8ac-4725-9efc-1bcc035e6cb7" />
 
 
-# Relatorio-implementacao-servicos-AWS
+# Relatorio Implementação de Servicos-AWS
 Data: 21/10/2025
-Empresa: Abstergo Industries
+Empresa: Abstergo Industries Farmaceutics
 Responsável: Andre Martins de Carvalho
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Andre Martins de Carvalho. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+
 # Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
