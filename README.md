@@ -1,3 +1,5 @@
+<img width="768" height="432" alt="Amazon-Web-Services-AWS-Logo-PNG-HD-Quality" src="https://github.com/user-attachments/assets/1622d0f6-94dd-4930-9561-a7773ca18af5" />
+
 # Relatorio-implementacao-servicos-AWS
 Data: 21/10/2025
 Empresa: Abstergo Industries
