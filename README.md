@@ -31,5 +31,6 @@ A implementação de ferramentas na empresa Abstergo Industries tem como esperad
 -Guia Interno de Políticas de Retenção de Dados no S3 Glacier
 -Manual de Configuração de Alertas de Orçamento do AWS Budgets
 
+
 Assinatura do Responsável pelo Projeto:
 Andre Martins de Carvalho
